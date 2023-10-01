@@ -1,5 +1,5 @@
 
-# Project Name: vogue-pocket-8479
+# Project Name: FitQuest.com
 
 A collaborative project to build fitness tracking.
 
