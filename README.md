@@ -17,7 +17,7 @@ Buy Products: Explore an extensive selection of fitness products including prote
 
 ## Deployment Link
 
-[vercel](https://frontend-pravin7038.vercel.app/)
+[vercel](https://frontend-blush-six.vercel.app)
 
 ###
 
