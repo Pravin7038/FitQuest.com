@@ -1,7 +1,7 @@
 import { LOGIN_FAILURE, LOGIN_REQUEST, LOGIN_SUCCESS, LOGOUT_SUCCESS } from "../actionTypes";
 import axios from "axios";
 
-const baseURL = "https://fair-teal-chipmunk-tam.cyclic.cloud";
+const baseURL = "https://fitquest-backend.onrender.com";
 
 //Login
 export const login = (user)=> async (dispatch) => {

@@ -8,7 +8,7 @@ import {
   EXERCISE_UPDATE_SUCCESS,
 } from "../actionTypes";
 
-const baseURL = "https://fair-teal-chipmunk-tam.cyclic.cloud";
+const baseURL = "https://fitquest-backend.onrender.com";
 
 //GET Exercise
 export const getExercisesAction =

@@ -8,7 +8,7 @@ import {
 } from "../actionTypes";
 import axios from "axios";
 
-const baseURL = "https://fair-teal-chipmunk-tam.cyclic.cloud";
+const baseURL = "https://fitquest-backend.onrender.com";
 
 //GET Product
 export const getProductAction =(page = 1, limit = 12) => (dispatch) => {
