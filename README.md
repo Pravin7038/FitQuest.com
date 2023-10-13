@@ -1,5 +1,5 @@
 
-# Project Name: vogue-pocket-8479
+# Project Name: FitQuest.com
 
 A collaborative project to build fitness tracking.
 
@@ -17,7 +17,7 @@ Buy Products: Explore an extensive selection of fitness products including prote
 
 ## Deployment Link
 
-[netlify]()
+[vercel](https://frontend-blush-six.vercel.app)
 
 ###
 
